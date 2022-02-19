@@ -1,0 +1,18 @@
+[submodule "optional"]
+	path = optional
+	url = https://github.com/sw1tcherrr/optional
+[submodule "big-integer"]
+	path = big-integer
+	url = https://github.com/sw1tcherrr/big-integer
+[submodule "intrusive-list"]
+	path = intrusive-list
+	url = https://github.com/sw1tcherrr/intrusive-list
+[submodule "signals"]
+	path = signals
+	url = https://github.com/sw1tcherrr/signals
+[submodule "shared-ptr"]
+	path = shared-ptr
+	url = https://github.com/sw1tcherrr/shared-ptr
+[submodule "function"]
+	path = function
+	url = https://github.com/sw1tcherrr/function
