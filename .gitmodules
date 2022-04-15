@@ -16,3 +16,9 @@
 [submodule "function"]
 	path = function
 	url = https://github.com/sw1tcherrr/function
+[submodule "variant"]
+	path = variant
+	url = https://github.com/sw1tcherrr/variant
+[submodule "bimap"]
+	path = bimap
+	url = https://github.com/sw1tcherrr/bimap
